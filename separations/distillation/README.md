@@ -14,7 +14,7 @@ and compared against an ideal vle model. experiments performed in a ut austin la
 ![](figures/rayleigh_model.png)
 
 ## methods
-- antoine equation (felder & rousseau table b.4) + raoult's law → bubble/dew curves, solved with `scipy.optimize.brentq`
+- antoine equation + raoult's law → bubble/dew curves, solved with `scipy.optimize.brentq`
 - rayleigh equation integrated numerically for batch simple distillation
 
 ## assumptions
@@ -22,9 +22,3 @@ and compared against an ideal vle model. experiments performed in a ut austin la
 - volume fraction distilled ≈ mole fraction distilled
 - p = 760 mmhg (austin is ~745 mmhg, which shifts bps < 1 °C)
 - ideal liquid (raoult's law)
-
-## what the results mean
-(your four answers)
-
-## run it
-pip install -r requirements.txt, then open analysis.ipynb
