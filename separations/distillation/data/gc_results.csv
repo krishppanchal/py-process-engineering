@@ -1,0 +1,10 @@
+sample,fraction_vol_mL,retention_time_min,area_uVs,compound
+A,2.0,0.015,7905,artifact
+A,2.0,0.756,172413,acetone
+A,2.0,0.889,32472,toluene
+B,8.5,0.747,111583,acetone
+B,8.5,0.884,190228,toluene
+C,0.3,0.758,24799,acetone
+C,0.3,0.892,465022,toluene
+original_mixture,,0.749,97809,acetone
+original_mixture,,0.887,112169,toluene
