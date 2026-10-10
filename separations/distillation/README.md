@@ -22,3 +22,4 @@ and compared against an ideal vle model. experiments performed in a ut austin la
 - volume fraction distilled ≈ mole fraction distilled
 - p = 760 mmhg (austin is ~745 mmhg, which shifts bps < 1 °C)
 - ideal liquid (raoult's law)
+
